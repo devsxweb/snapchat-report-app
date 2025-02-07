@@ -19,4 +19,4 @@ for further guide:
 
 contact developer:  https://t.me/snapchatreport
 
-an automated tool for sending bulk reports to telegram IDs
+an automated tool for sending bulk reports to snapchaht IDs
