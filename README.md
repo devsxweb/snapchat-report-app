@@ -3,7 +3,7 @@ A powerful tool for reporting snapchat accounts.
 
 developer:  https://t.me/snapchatreport
 
-![tgpic](https://github.com/user-attachments/assets/ec6dfbe4-5d36-44a9-a6d5-0ec1580136a2)
+![randompic](https://github.com/user-attachments/assets/a67ab1db-8810-4ccf-ac04-6739b37c6a97)
 
 # STEPS TO FOLLOW
 - generate up to 100 sessions
