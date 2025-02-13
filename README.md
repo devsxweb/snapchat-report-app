@@ -1,4 +1,4 @@
-# snapchat-report-app
+# snapchat-report-tool
 A powerful tool for reporting snapchat accounts.
 
 developer:  https://t.me/snapchatreport
