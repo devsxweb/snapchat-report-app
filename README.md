@@ -19,7 +19,7 @@ for further guide:
 
 contact developer:  https://t.me/snapchatreport
 
-an automated tool for sending bulk reports to snapchaht IDs
+an automated tool for sending bulk reports to snapchaht IDs, fast mass report bot
 
 # snapchat reporter
 snapchat report gigs are available
