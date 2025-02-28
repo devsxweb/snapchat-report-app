@@ -13,7 +13,7 @@ developer:  https://t.me/snapchatreport
 developer:  https://t.me/snapchatreport
 
 # USAGE
-- there is the windows os version and mac os version
+- there is the windows version and mac os version
 
 for further guide:
 
