@@ -22,4 +22,4 @@ contact developer:  https://t.me/snapchatreport
 an automated tool for sending bulk reports to snapchaht IDs, fast mass report bot and takedowns
 
 # snapchat reporter
-snapchat report gigs are available
+snapchat report gigs are always available
