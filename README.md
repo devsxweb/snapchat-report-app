@@ -26,4 +26,5 @@ snapchat report gigs are always available
 # snapchat mass reporting bot
 snapchat report services available
 # snapchat ban tool
+bulk reporting tool
 # snapchat report bot
