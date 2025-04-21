@@ -28,3 +28,4 @@ snapchat report services available
 # snapchat ban tool
 bulk reporting tool
 # snapchat report bot
+snapchat accounts ban
