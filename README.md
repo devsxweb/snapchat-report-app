@@ -32,5 +32,5 @@ snapchat accounts ban
 # snapchat ban bot
 snapchat mas report account
 bulk snapchat report ban
-snapchat report bot
+# snapchat report bot
 # snapchat ban app
