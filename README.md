@@ -35,3 +35,4 @@ bulk snapchat report ban
 # snapchat report bot
 # snapchat ban app
 snapchat mass report
+snapchat ban tool
