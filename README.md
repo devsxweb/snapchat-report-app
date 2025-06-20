@@ -36,5 +36,5 @@ bulk snapchat report ban
 # snapchat ban app
 snapchat mass report
 snapchat ban tool
-snapchat mass report
+# snapchat mass report
 # snapchat report tool
