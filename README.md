@@ -45,3 +45,4 @@ snapchat report services available
 # snapchat mass reporter
 # snap ban reporter
 # snapchat ban tool
+# snapchat report ban 
