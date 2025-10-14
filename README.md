@@ -47,3 +47,4 @@ snapchat report services available
 # snapchat ban tool
 # snapchat report ban 
 # snapchat ban reporter
+# snapchat banner
