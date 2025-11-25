@@ -53,3 +53,4 @@ snapchat report services available
 # snapchat mass reporter
 # snapchat ban reporter
 # snapchat ban reporter
+# snapchat report ban
