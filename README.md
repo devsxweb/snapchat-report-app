@@ -1,23 +1,24 @@
 # snapchat-report-tool
 A powerful tool for reporting snapchat accounts with mass reporting method
 
-developer:  https://t.me/snapchatreport
+developer:  https://t.me/redsecure
 
-![randompic](https://github.com/user-attachments/assets/a67ab1db-8810-4ccf-ac04-6739b37c6a97)
+<img width="430" height="322" alt="scrp" src="https://github.com/user-attachments/assets/2ec027e9-0416-48d3-9ada-a92158506964" />
+
 
 # STEPS TO FOLLOW
 - generate up to 100 sessions
 
 - generate proxies, in json format
 
-developer:  https://t.me/snapchatreport
+developer:  https://t.me/redsecure
 
 # USAGE
 - there is the windows version and mac os version
 
 for further guide:
 
-contact developer:  https://t.me/snapchatreport
+contact developer:  https://t.me/redsecure
 
 an automated tool for sending bulk reports to snapchaht IDs, fast mass report bot and takedowns
 
