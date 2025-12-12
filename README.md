@@ -43,15 +43,4 @@ snapchat report services available
 # snapchat ban report
 # snapchat banner bot
 # snap banner tool
-# snapchat mass reporter
-# snap ban reporter
-# snapchat ban tool
-# snapchat report ban 
-# snapchat ban reporter
-# snapchat banner
-# snapchat banner
-# snapchat ban tool
-# snapchat mass reporter
-# snapchat ban reporter
-# snapchat ban reporter
-# snapchat report ban
+
